@@ -1,8 +1,9 @@
-Hola mundo de caramelo
+Hola mundo de fresa
 Adios venus
 
 linea 4
 linea 5
 
-lina 73
-linea 83
+lina 37
+linea 38
+
