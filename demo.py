@@ -1,2 +1,2 @@
 def saluda(nombre):
-  print("saluda, " + nombre)
+  print("saluda " + nombre)
