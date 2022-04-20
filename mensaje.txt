@@ -1,9 +1,9 @@
-Hola mundo de fresa
+Hola mundo
 Adios venus
 
 linea 4
 linea 5
 
-lina 37
+lina Z
 linea 38
 
