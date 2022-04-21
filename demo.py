@@ -1,3 +1,3 @@
-def saluda(nombre):
+def saluda nombre:
   print("Holita, " + nombre)
 
